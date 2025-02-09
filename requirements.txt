@@ -10,4 +10,3 @@ streamlit-folium
 folium
 geopy
 datetime
-pickle5 
