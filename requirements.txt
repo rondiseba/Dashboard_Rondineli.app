@@ -1,4 +1,13 @@
 streamlit
 pandas
-plotly
 matplotlib
+seaborn
+plotly
+scikit-learn
+numpy
+plotly
+streamlit-folium
+folium
+geopy
+datetime
+pickle5 
